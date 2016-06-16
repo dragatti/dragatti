@@ -13,7 +13,8 @@ html {
 
 body {
   font-size: 1.6rem;
-  font-family: "Playfair Display", sans-serif;
+  font-family: "Brandon Grotesque", sans-serif;
+  font-weight: 300;
   color: #262626;
   background-color: #FFF;
 }
@@ -69,6 +70,7 @@ h1.big {
 }
 
 .projects-list {
+  font-family: "Playfair Display", sans-serif;
   height: 750px;
   background-color: #6AEAD3;
   color: #262626;
@@ -111,7 +113,7 @@ Patterns - reusable parts of our design
   border: 2px solid #262626;
   border-radius: 100px;
   background-color: #FFF;
-  font-weight: 700;
+  font-weight: 300;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -250,6 +252,7 @@ Modal Window
   -moz-osx-font-smoothing: grayscale;
 }
 .cd-modal-content p {
+  font-family: "Playfair Display", sans-serif;
   color: #f2f2f2;
   line-height: 1.6;
   margin: 2em 0;
