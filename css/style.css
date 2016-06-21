@@ -13,7 +13,7 @@ html {
 
 body {
   font-size: 1.6rem;
-  font-family: "Playfair Display", sans-serif;
+  font-family: "Franklin Gothic URW", sans-serif;
   font-weight: 300;
   color: #262626;
   background-color: #FFF;
@@ -73,7 +73,7 @@ h1.big {
 }
 
 .projects-list {
-  font-family: "Playfair Display", sans-serif;
+  font-family: "Franklin Gothic URW", sans-serif;
   height: 750px;
   background-color: #6AEAD3;
   color: #262626;
@@ -84,7 +84,7 @@ h1.big {
   margin-top: 5.5em;
 }
 .projects-list h2 {
-  font-family: "Playfair Display";
+  font-family: "Franklin Gothic URW";
   font-size: 4em;
   text-align: center;
 }
@@ -103,7 +103,7 @@ Patterns - reusable parts of our design
 
 -------------------------------- */
 .cd-btn {
-  font-family: "Brandon Grotesque", sans-serif;
+  font-family: "Franklin Gothic URW", sans-serif;
   display: block;
   position: fixed;
   right: 40px;
@@ -256,7 +256,7 @@ Modal Window
   -moz-osx-font-smoothing: grayscale;
 }
 .cd-modal-content p {
-  font-family: "Playfair Display", sans-serif;
+  font-family: "Franklin Gothic URW", sans-serif;
   color: #f2f2f2;
   line-height: 1.6;
   margin: 2em 0;
