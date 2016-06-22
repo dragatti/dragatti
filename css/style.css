@@ -73,9 +73,8 @@ h1.big {
 }
 
 .projects-list {
-  font-family: "Franklin Gothic URW", sans-serif;
   height: 750px;
-  background-color: #bdbdbd;
+  background-color: #e5ecff;
   color: #262626;
   padding: 100px 0 0 0px;
 }
@@ -84,7 +83,6 @@ h1.big {
   margin-top: 5.5em;
 }
 .projects-list h2 {
-  font-family: "Franklin Gothic URW";
   font-size: 4em;
   text-align: center;
 }
