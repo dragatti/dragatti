@@ -80,8 +80,9 @@ h1.big {
 }
 
 .projects-list p {
-  font-size: 4em;
+  font-size: 3.4em;
   margin-left: 40px;
+  margin-bottom: 1.2em;
 }
 
 .blue {
@@ -250,7 +251,7 @@ Modal Window
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-.cd-modal-content p {
+.cd-modal-content li {
   font-family: "Franklin Gothic URW", "Helvetica Neue", Helvetica;
   color: #fff;
   line-height: 1.6;
