@@ -104,18 +104,18 @@ Patterns - reusable parts of our design
   font-family: "Franklin Gothic URW", sans-serif;
   display: block;
   position: fixed;
-  right: 40px;
+  right: 45px;
   top: 16px;
   max-width: 110px;
   text-align: center;
   margin: 20px;
   margin: 0 auto;
-  padding: 1em 2em;
+  padding: 1em 1.5em;
   color: #262626;
   border: 2px solid #262626;
   border-radius: 100px;
   background-color: #FFF;
-  font-weight: 400;
+  font-weight: 900;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -141,7 +141,7 @@ Main Content
 .cd-main-content h1 {
   font-size: 4.2rem;
   line-height: 1;
-  padding-top: 1.57em;
+  padding-top: 1.6em;
 }
 @media only screen and (min-width: 768px) {
   .cd-main-content h1 {
