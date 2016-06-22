@@ -83,8 +83,8 @@ h1.big {
   margin-top: 5.5em;
 }
 .projects-list h2 {
-  font-size: 4em;
-  text-align: center;
+  font-size: 20em;
+  text-align: left;
 }
 
 .blue {
@@ -141,7 +141,7 @@ Main Content
 .cd-main-content h1 {
   font-size: 4.2rem;
   line-height: 1;
-  padding-top: 1.6em;
+  padding-top: 1.56em;
 }
 @media only screen and (min-width: 768px) {
   .cd-main-content h1 {
