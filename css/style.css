@@ -13,7 +13,7 @@ html {
 
 body {
   font-size: 1.6rem;
-  font-family: "Franklin Gothic URW", "Helvetica Neue" Helvetica;
+  font-family: "Franklin Gothic URW", "Helvetica Neue", Helvetica;
   font-weight: 900;
   color: #262626;
   background-color: #FFF;
@@ -101,7 +101,7 @@ Patterns - reusable parts of our design
 
 -------------------------------- */
 .cd-btn {
-  font-family: "Franklin Gothic URW", sans-serif;
+  font-family: "Franklin Gothic URW", "Helvetica Neue", Helvetica;
   display: block;
   position: fixed;
   right: 45px;
@@ -254,7 +254,7 @@ Modal Window
   -moz-osx-font-smoothing: grayscale;
 }
 .cd-modal-content p {
-  font-family: "Franklin Gothic URW", sans-serif;
+  font-family: "Franklin Gothic URW", "Helvetica Neue", Helvetica;
   color: #fff;
   line-height: 1.6;
   margin: 2em 0;
