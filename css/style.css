@@ -254,8 +254,8 @@ Modal Window
 .cd-modal-content li {
   font-family: "Franklin Gothic URW", "Helvetica Neue", Helvetica;
   color: #fff;
-  line-height: 1.6;
-  margin: 2em 0;
+  line-height: 1;
+  margin: .2em 0;
   font-size: 5em;
 }
 .modal-is-visible .cd-modal-content {
