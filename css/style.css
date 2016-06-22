@@ -79,12 +79,9 @@ h1.big {
   padding: 100px 0 0 0px;
 }
 
-.projects-list li{
-  margin-top: 5.5em;
-}
-.projects-list h2 {
-  font-size: 3em;
-  text-align: center;;
+.projects-list p {
+  font-size: 4em;
+  margin-left: 40px;
 }
 
 .blue {
