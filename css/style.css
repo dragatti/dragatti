@@ -13,7 +13,7 @@ html {
 
 body {
   font-size: 1.6rem;
-  font-family: "Franklin Gothic URW", sans-serif;
+  font-family: "Clone Rounded Latin", sans-serif;
   font-weight: 900;
   color: #262626;
   background-color: #FFF;
@@ -74,7 +74,7 @@ h1.big {
 
 .projects-list {
   height: 750px;
-  background-color: #e5ecff;
+  background-color: #f9f9f9;
   color: #262626;
   padding: 100px 0 0 0px;
 }
@@ -255,7 +255,7 @@ Modal Window
 }
 .cd-modal-content p {
   font-family: "Franklin Gothic URW", sans-serif;
-  color: #f2f2f2;
+  color: #fff;
   line-height: 1.6;
   margin: 2em 0;
 }
