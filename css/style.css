@@ -143,13 +143,13 @@ Main Content
 }
 @media only screen and (min-width: 768px) {
   .cd-main-content h1 {
-    font-size: 6rem;
+    font-size: 10rem;
     font-weight: 900;
   }
 }
 @media only screen and (max-width: 768px) {
   .cd-main-content h1 {
-    font-size: 6rem;
+    font-size: 10rem;
     padding-top: 4.7em;
   }
 }
