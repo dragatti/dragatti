@@ -35,9 +35,9 @@ svg {
 .logo {
   position: fixed;
   text-align: left;
-  margin: 30px 0 0 40px;
+  margin: 17px 0 0 40px;
   display: inline-block;
-  width: 150px;
+  width: 124px;
 
 }
 
@@ -68,7 +68,7 @@ svg {
 h1.big {
   font-size: 10em;
   color: #262626;
-  font-weight: 900;
+  font-weight: 100;
 
 }
 
@@ -256,7 +256,8 @@ Modal Window
   color: #fff;
   line-height: 1;
   margin: .2em 0;
-  font-size: 5em;
+  font-size: 3em;
+  font-weight: 100;
 }
 .modal-is-visible .cd-modal-content {
   opacity: 1;
